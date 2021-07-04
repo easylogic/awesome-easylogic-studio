@@ -2,6 +2,10 @@
 
 Plugin list for easylogic studio
 
+# Wrapper 
+
+* react editor - https://github.com/easylogic/react-editor
+
 # Layer & Renderer
 
 * simple plugin template - https://github.com/easylogic/editor-plugin-template
@@ -14,3 +18,4 @@ Plugin list for easylogic studio
 * Feather Icons plugin - https://github.com/easylogic/editor-plugin-feather-icons
 * Primer Oct Icons plugin - https://github.com/easylogic/editor-plugin-primer-oct-icons
 * AntDesign Icons plugin - https://github.com/easylogic/editor-plugin-ant-design-icons
+* color assets plugin - https://github.com/easylogic/editor-plugin-color-asset
