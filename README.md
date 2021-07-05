@@ -2,8 +2,9 @@
 
 Plugin list for easylogic studio
 
-# Wrapper 
+# Editor
 
+* editor - https://github.com/easylogic/editor
 * react editor - https://github.com/easylogic/react-editor
 
 # Layer & Renderer
