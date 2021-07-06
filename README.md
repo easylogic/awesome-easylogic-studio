@@ -7,6 +7,7 @@ Plugin list for easylogic studio
 * editor - https://github.com/easylogic/editor
 * react editor - https://github.com/easylogic/react-editor
 * vscode custom editor - https://github.com/easylogic/vscode-editor
+  * https://marketplace.visualstudio.com/items?itemName=easylogic.easylogic-studio
 
 # Layer & Renderer
 
