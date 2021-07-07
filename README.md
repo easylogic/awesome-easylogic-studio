@@ -2,6 +2,8 @@
 
 Plugin list for easylogic studio
 
+* editor with all plugins - https://github.com/easylogic/editor-with-plugin
+
 # Editor
 
 * editor - https://github.com/easylogic/editor
