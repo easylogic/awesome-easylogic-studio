@@ -6,6 +6,10 @@ Plugin list for easylogic studio
 
 * editor - https://github.com/easylogic/editor
 * react editor - https://github.com/easylogic/react-editor
+* vue editor(waiting) - https://github.com/easylogic/vue-editor
+* svelte editor(waiting) - https://github.com/easylogic/svelte-editor
+* angular editor(waiting) - https://github.com/easylogic/angular-editor
+* webcomponent editor(waiting) - https://github.com/easylogic/editor-element 
 * vscode custom editor - https://github.com/easylogic/vscode-editor
   * https://marketplace.visualstudio.com/items?itemName=easylogic.easylogic-studio
 
